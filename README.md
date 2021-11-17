@@ -1,10 +1,11 @@
-### Repositorio prueba IEXE 
+### Repositorio prueba IEXE
 
-Repositorio prueba 
+Repositorio prueba
 
-#### Actividades GIT 
+#### Actividades GIT
 
 Ejercicios de git
 
-
 No sale nada en rojo como menciona
+
+![alt text](https://i.ibb.co/tXVBdVW/git-log.png)
